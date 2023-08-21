@@ -6,7 +6,7 @@ I'm an Undegraduate Student in Semester 5 at **Udayana University**.\
 I have interest on **Mobile Development**.\
 I'm currently learning at **Bangkit Mobile Development Batch 2 Program**.
 
-If u like to know me, u can follow my [Instagram Account](https://www.instagram.com/deagnia/).
+If u like to know me, u can follow my *[Instagram Account](https://www.instagram.com/deagnia/)*.
 
 Below are my **Github Statistics** and **Programming languages Knowledge**
 
