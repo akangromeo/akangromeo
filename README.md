@@ -2,9 +2,9 @@ Hi There! Thank's for visiting my bio.
 --
 I'm **Dean Agnia**.
 
-I'm an Undegraduate Student in Semester 5 at **Udayana University**.\
-I have interest on **Mobile Development**.\
-I'm currently learning at **Bangkit Mobile Development Batch 2 Program**.
+I'm an Undegraduate Student in Semester 6 at **Udayana University**.\
+I have interest on **Mobile Development** and **Web Developer**.\
+I'm a Distinction Gruaduate from **Bangkit Mobile Development Batch 2 Program**.
 
 I'm available for all opportunity, you can contact me by email.
 
