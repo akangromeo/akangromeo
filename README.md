@@ -6,7 +6,7 @@ I'm **Dean Agnia**.
 
 I'm a **Bachelor of Information Technology** from **Udayana University**.  
 I have a strong interest in **Mobile Development** and **Web Development**.  
-I'm also a Distinction Graduate from the **Bangkit Mobile Development Batch 2 Program**.
+I'm also a Distinction Graduate from the **Bangkit Mobile Development 2023 Batch 2 Program**.
 
 I'm open to opportunities — feel free to reach out to me via email.
 
