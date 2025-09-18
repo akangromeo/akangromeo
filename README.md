@@ -69,11 +69,9 @@ I'm open to opportunities — feel free to reach out to me via email.
 
 ---
 
-## 📊 GitHub Stats
+## 📝 Languages Overview
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akangromeo&show_icons=true&theme=algolia&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akangromeo&layout=compact&theme=algolia&count_private=true" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akangromeo&layout=compact&theme=algolia&count_private=true" />
 </p>
 
 ---
